@@ -1,6 +1,6 @@
 # Project 10
 
-[Live link](https://silver-seahorse-301edc.netlify.app)
+[Live link](https://unrivaled-halva-f54a80.netlify.app)
 ## Name:Vaishnavi Jaju
 
 **The project took 4-5 hrs to complete.**
