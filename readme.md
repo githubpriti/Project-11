@@ -1,6 +1,6 @@
 # Project 11
 
-[Live link](https://unrivaled-halva-f54a80.netlify.app)
+[Live link](https://project-11-two.vercel.app/)
 ## Name:Vaishnavi Jaju
 
 **The project took 4-5 hrs to complete.**
